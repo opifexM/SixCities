@@ -1,0 +1,27 @@
+.container {
+  color: #478334;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+  max-width: 800px;
+  padding: 0 20px;
+  margin: auto;
+}
+
+
+.heading {
+  font-size: 2em;
+  color: #be0c0c;
+}
+
+.text {
+  font-size: 1.3rem;
+  color: #603232;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+}
