@@ -30,12 +30,5 @@ jobs:
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
         with:
           coverageCommand: npm test -- --coverage
+          coverage-input-type: lcov
           debug: true
-
-#      - name: Code coverage
-#        uses: paambaati/codeclimate-action@v4.0.0
-#        env:
-#          CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
-#        with:
-#          coverageCommand: npm test -- --coverage --coverageProvider=v8
-#          debug: true
