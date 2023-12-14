@@ -1,5 +1,6 @@
 [![Node CI](https://github.com/opifexM/SixCities/actions/workflows/nodejs.yml/badge.svg)](https://github.com/opifexM/SixCities/actions/workflows/nodejs.yml)
-[![Maintainability]()]()
+[![Maintainability](https://api.codeclimate.com/v1/badges/30810ff2dda1421d6983/maintainability)](https://codeclimate.com/github/opifexM/SixCities/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/30810ff2dda1421d6983/test_coverage)](https://codeclimate.com/github/opifexM/SixCities/test_coverage)
 
 # Six Cities
 
