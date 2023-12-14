@@ -1,4 +1,4 @@
-[![Node CI]()]()
+[![Node CI](https://github.com/opifexM/SixCities/actions/workflows/nodejs.yml/badge.svg)](https://github.com/opifexM/SixCities/actions/workflows/nodejs.yml)
 [![Maintainability]()]()
 
 # Six Cities
